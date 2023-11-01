@@ -4,7 +4,7 @@ Hi 👋 My name is Leevi Suominen
 Game Developer / Programmer
 ---------------------------
 
-Hello World
+I'm an indie game developer that is learning to become the best version of myself as in programming, game developing and outside of it. Games have always been a passion of mine and a huge part of my free time so making games myself is something i enjoy.
 
 *   🌍  I'm based in Helsinki
 *   ✉️  You can contact me at [leevi.suominen@hotmail.com](mailto:leevi.suominen@hotmail.com)
