@@ -10,7 +10,7 @@ Hello World
 *   ✉️  You can contact me at [leevi.suominen@hotmail.com](mailto:leevi.suominen@hotmail.com)
 *   🧠  I'm learning to become better programmer
 *   🤝  I'm open to collaborating on interesting projects that will have an impact on the game world
-*   ⚡  I'm Superman
+*   ⚡  I also might be Batman.
 
 <a href="https://www.github.com/LeeviSuominen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/LeeviSuominen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
